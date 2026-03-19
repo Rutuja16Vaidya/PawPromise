@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+Paw promise
+a smart pet adoption system 
 
-TODO: Document your project here
